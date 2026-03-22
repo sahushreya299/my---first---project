@@ -15,7 +15,7 @@ public class NumberCheck {
     // condition Logic 
     if (num1 > 0) {
          // PRINT "Positive"
-         System.out.println("Negative"); 
+         System.out.println("Positive"); 
     }
     else if {
       // ELSE IF num < 0 THEN PRINT "Negative"
